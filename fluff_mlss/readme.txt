@@ -1,24 +1,8 @@
-
 Mario & Luigi: Superstar Saga Styled Balloon
 
 This balloon is not part of a ghost/ukagaka.
 
-
 -------- Version History --------
-
- Version 0.0.1 
-   - Started balloon.
-
- Version 0.0.2
-   - Finished input boxes.
-   - Added small balloons.
-   - Made custom 'confirm' and 'cancel' buttons for the input boxes.
-   - Finished descript.txt
-   - Made the thumbnail.png
-
- Version 0.0.3 
-   - Edited the small Balloons.
-   - Edited descript.txt
 
  Version 1.0.0 (5/20/2018)
    - Official Release

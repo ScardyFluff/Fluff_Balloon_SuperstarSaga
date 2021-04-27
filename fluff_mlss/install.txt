@@ -1,3 +1,4 @@
+//Basic
 charset,UTF-8
 type,balloon
 name,Superstar Saga
