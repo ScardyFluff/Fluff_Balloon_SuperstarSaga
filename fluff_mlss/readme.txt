@@ -1,6 +1,6 @@
 Mario & Luigi: Superstar Saga Styled Balloon
 
-This balloon is not part of a ghost/ukagaka.
+This balloon is not part of a Ghost/Ukagaka.
 
 -------- Version History --------
 
