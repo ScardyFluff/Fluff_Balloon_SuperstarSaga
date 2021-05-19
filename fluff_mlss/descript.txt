@@ -3,7 +3,7 @@ charset,UTF-8
 type,balloon
 name,Superstar Saga
 craftman,ScardyFluff
-craftmanurl,https://scardyfluff.github.io/Ukagaka-Fluff/
+craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
 
 //PNA Disabler
 //use_self_alpha,1
