@@ -4,9 +4,13 @@ type,balloon
 name,Superstar Saga
 craftman,ScardyFluff
 craftmanurl,https://scardyfluff.github.io/Fluff_Website_GhostHub/
+homeurl,https://raw.githubusercontent.com/ScardyFluff/Fluff_Balloon_SuperstarSaga/master/updates/fluff_mlss/
+
 
 //PNA Disabler
 //use_self_alpha,1
+//use_input_alpha,1
+
 
 //Text Locations
 origin.x,32
@@ -18,6 +22,7 @@ validrect.bottom,151
 wordwrappoint.x,214
 wordwrappoint.y,0
 
+
 //Font Info
 font.name,MLSSBit
 font.height,16
@@ -25,9 +30,11 @@ font.color.r,48
 font.color.g,48
 font.color.b,48
 
+
 //Balloon Position
 windowposition.x,0
 windowposition.y,0
+
 
 //Other
 font.shadowcolor.r,208
@@ -36,6 +43,7 @@ font.shadowcolor.b,216
 anchor.font.color.r,248
 anchor.font.color.g,0
 anchor.font.color.b,64
+
 
 //Choice Markers
 cursor.blendmethod,none
@@ -49,6 +57,7 @@ cursor.brush.color.b,48
 cursor.font.color.r,48
 cursor.font.color.g,88
 cursor.font.color.b,248
+
 
 //Image Markers
 arrow0.x,233
@@ -72,6 +81,7 @@ number.font.color.g,48
 number.font.color.b,48
 number.xr,240
 number.y,187
+
 
 //Communication Box
 communicatebox.x,17

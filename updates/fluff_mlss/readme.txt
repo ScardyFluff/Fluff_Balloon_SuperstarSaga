@@ -1,6 +1,6 @@
 Mario & Luigi: Superstar Saga Styled Balloon
 
-This balloon is not part of a Ghost/Ukagaka.
+Link to Font: https://github.com/ScardyFluff/Fluff_Website_GhostHub/blob/main/downloads/fonts/MLSSBit.ttf?raw=true
 
 -------- Version History --------
 
@@ -18,4 +18,9 @@ This balloon is not part of a Ghost/Ukagaka.
    - Minor coding and comment tweaks.
 
  Version 1.0.3 (5/19/2021)
-   - Fixed the link to my site.
+   - Fixed the link to My Ghost Hub.
+
+ Version 1.0.4 (1/20/2022)
+   - Added homeurl link.
+   - Added back the profile folder.
+   - Added link to font in readme.
